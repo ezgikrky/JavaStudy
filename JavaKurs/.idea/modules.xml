@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTK/BTK.iml" filepath="$PROJECT_DIR$/BTK/BTK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/HomeWork.iml" filepath="$PROJECT_DIR$/Homework1/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/HomeWorks.iml" filepath="$PROJECT_DIR$/HomeWorks/HomeWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/Homework/Homework.iml" filepath="$PROJECT_DIR$/interfaces/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/HomeWorks/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/HomeWorks/Homework2/Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance2/Inheritance2.iml" filepath="$PROJECT_DIR$/Inheritance2/Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaKurs.iml" filepath="$PROJECT_DIR$/JavaKurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" filepath="$PROJECT_DIR$/nLayeredDemo/nLayeredDemo.iml" />
+    </modules>
+  </component>
+</project>
